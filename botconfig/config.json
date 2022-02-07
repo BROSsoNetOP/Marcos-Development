@@ -1,0 +1,38 @@
+{
+   "token": "OTAxMDA4ODY3OTg1NjIxMDMy.YXJn5g.flel17hUl5wzT7t7tK1DPhppJdI",
+   "prefix": ":",
+   "ownerIDS": [
+      "781127625263415326"
+   ],
+   "memer_api": "ExfAXxG7R9g",
+   "status": {
+      "text": "SoNetOP Manager | :help | :setup",
+      "text2": "SoNet or wot!🤪🤪 | Rocking on **5** guilds",
+      "type": "PLAYING",
+      "url": "https://www.instagram.com/thesanidhyauniyal"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "marcos-lavalink-railways-production.up.railway.app",
+            "port": 443,
+            "password": "Raccoon"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "36sAe_8IFjjWY3RvPFxhXCxIvtsgpeGQ",
+      "clientID": "901008867985621032"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
